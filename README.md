@@ -1,4 +1,4 @@
-estimation of characteristic dose from time-series NBD dataset
+Estimation of characteristic dose from time-series NBD dataset
 
 ## Requirements
 
